@@ -1,2 +1,3 @@
 rootProject.name = 'chestshop-sponge'
 
+include ':chestshop-core'
