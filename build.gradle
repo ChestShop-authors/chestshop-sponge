@@ -8,4 +8,8 @@ subprojects {
             url 'http://repo.spongepowered.org/maven'
         }
     }
+
+    apply plugin: 'java'
+
+    sourceCompatibility = 1.8
 }
